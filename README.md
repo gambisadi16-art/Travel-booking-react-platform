@@ -25,26 +25,27 @@ The project focuses on creating a visually immersive experience while maintainin
 ### 🏠 Homepage Hero Section
 A luxury-inspired landing page featuring a modern navigation bar, immersive hero section, and intuitive hotel search widget.
 
-![Homepage Hero](<img width="1894" height="908" alt="image" src="https://github.com/user-attachments/assets/a5c89263-c8e0-48db-82f4-56e5b31d7c37" />
-)
+![Homepage Hero]<img width="1894" height="908" alt="Screenshot 2026-06-09 114834" src="https://github.com/user-attachments/assets/e46ef099-9e36-4a85-b0b9-1ed39c3e7c02" />
 
 ### 🌴 Popular Destinations
 Explore handpicked travel destinations through visually rich destination cards with elegant hover effects.
 
-![Popular Destinations](<img width="1890" height="901" alt="image" src="https://github.com/user-attachments/assets/2ffcc861-2b9a-4d2c-9604-317ce466d501" />
-)
+![Popular Destinations]
+<img width="1890" height="901" alt="Screenshot 2026-06-09 114930" src="https://github.com/user-attachments/assets/f976dbe6-1c07-4b46-9170-8d7a4458a393" />
 
 ### 🏨 Featured Hotels
 Browse curated luxury accommodations complete with ratings, pricing, and modern card layouts.
 
-![Featured Hotels](<img width="1899" height="904" alt="image" src="https://github.com/user-attachments/assets/7d56db6a-edba-4f99-8176-8db6abc781b6" />
-)
+![Featured Hotels]
+<img width="1899" height="904" alt="Screenshot 2026-06-09 115013" src="https://github.com/user-attachments/assets/09ff84c4-b72a-48bf-abbb-ea2e5ef892c4" />
+
 
 ### 📖 Hotel Details Page
 View detailed hotel information, image galleries, amenities, and booking options through a clean and user-friendly interface.
 
-![Hotel Details](<img width="1894" height="899" alt="image" src="https://github.com/user-attachments/assets/0d57ae34-1c5e-4933-9f10-3b08204807d5" />
-)
+![Hotel Details]
+<img width="1894" height="899" alt="Screenshot 2026-06-09 115101" src="https://github.com/user-attachments/assets/3af76f1e-1ebf-488a-b5f8-94641b699cb6" />
+
 
 ---
 
